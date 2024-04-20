@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/aelomari/Desktop/exam-02/ulstr",
+      "program": "/Users/aelomari/Desktop/exam-02/ulstr/build/Debug/outDebug"
+    }
+  ]
+}
